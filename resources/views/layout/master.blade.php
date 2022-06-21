@@ -64,6 +64,7 @@
             <a class="collapse-item" href="{{ url('students') }}">Data Siswa</a>
             <a class="collapse-item" href="{{ url('rayons') }}">Data Rayon</a>
             <a class="collapse-item" href="{{ url('studentGroups') }}">Data Rombel</a>
+            <a class="collapse-item" href="{{ url('borrowings') }}">Data Peminjam</a>
 
           </div>
         </div>
@@ -77,8 +78,8 @@
         Addons
       </div>
 
-       <!-- Nav Item - Register -->
-       <li class="nav-item">
+      <!-- Nav Item - Register -->
+      <li class="nav-item">
         <a class="nav-link" href="tables.html">
           <i class="fas fa-fw fa-table"></i>
           <span>Register</span></a>
